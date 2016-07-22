@@ -46,7 +46,7 @@
                     ':pass'=>'007',
                   );
     
-    $query->execute(params);
-    $query->execute(params2); 
+    $query->execute($params);
+    $query->execute($params2); 
     
 ?>
